@@ -1,0 +1,160 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Mohave", sans-serif;
+}
+/*h1 {
+  width: 10%;
+  margin: 0 auto 0 auto; /* Nếu có width như trên thì mới cần dùng này
+}
+*/
+.p {
+  line-height: 2;
+}
+
+.pro-pic {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 30px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+hr {
+  width: 6%;
+  border: dotted #eed5cd 8px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #041c32;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.2rem;
+  font-weight: normal;
+  color: #916bbf;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #8c78e2;
+  font-weight: 700;
+}
+
+.top-container {
+  background-color: #c3b5e2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.footer-link {
+  color: #6651c0;
+  margin: 10px 20px;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.webmobile {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.lang {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #664e88;
+  background-image: -webkit-linear-gradient(top, #664e88, #998ceb);
+  background-image: -moz-linear-gradient(top, #664e88, #998ceb);
+  background-image: -ms-linear-gradient(top, #664e88, #998ceb);
+  background-image: -o-linear-gradient(top, #664e88, #998ceb);
+  background-image: linear-gradient(to bottom, #664e88, #998ceb);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #eaf6f6;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: auto;
+}
+
+.btn:hover {
+  background: #a63cfd;
+  background-image: -webkit-linear-gradient(top, #998ceb, #753188);
+  background-image: -moz-linear-gradient(top, #998ceb, #753188);
+  background-image: -ms-linear-gradient(top, #998ceb, #753188);
+  background-image: -o-linear-gradient(top, #998ceb, #753188);
+  background-image: linear-gradient(to bottom, #998ceb, #753188);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #c3b5e2;
+  padding: 50px 0 20px;
+}
+
+.contact-mess {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+/*
+.webmobile-description {
+  clear: left;
+}
+
+.lang-description {
+  clear: right;
+}
+*/
